@@ -9,6 +9,12 @@
   --color-variation-orange: #f79853;
   --color-variation-light-blue: #27a7df;
   --color-variation-dark-blue: #374b9e;
+  --color-variation-red-border: #d03157;
+  --color-variation-orange-border: #d5864c;
+}
+
+* {
+  @apply outline-blue-600 outline-offset-0;
 }
 
 :root {
