@@ -23,7 +23,7 @@
   </Button>
 {/snippet}
 
-<div class="inline-flex gap-4">
+<div class="inline-flex gap-4 mb-4">
   {@render CounterButton({ text: "-", onclick: subtractCounter })}
 
   <Button>
