@@ -1,1 +1,18 @@
-@import 'tailwindcss';
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #b81e43;
+  --color-secondary: #27377c;
+  --color-tertiary: #5cb578;
+  --color-background: #ebeef4;
+  --color-variation-red: #ef4157;
+  --color-variation-orange: #f79853;
+  --color-variation-light-blue: #27a7df;
+  --color-variation-dark-blue: #374b9e;
+}
+
+:root {
+  background-color: var(--color-background);
+  height: 100dvh;
+  width: 100dvw;
+}
