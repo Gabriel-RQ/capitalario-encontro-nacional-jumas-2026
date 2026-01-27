@@ -6,3 +6,4 @@ export { default as PrayerCounterButtons } from "./PrayerCounterButtons.svelte";
 export { default as ProgressIndicator } from "./ProgressIndicator.svelte";
 export { default as Comment } from "./Comment.svelte";
 export { default as InfoList } from "./InfoList.svelte";
+export { default as CardList } from "./CardList.svelte";
