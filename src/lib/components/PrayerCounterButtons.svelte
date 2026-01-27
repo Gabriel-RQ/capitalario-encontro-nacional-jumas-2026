@@ -3,14 +3,14 @@
   import type { MouseEventHandler } from "svelte/elements";
   import { fly } from "svelte/transition";
 
-  let counter = $state(0);
+  let counter = $state(1);
 
   const addCounter = () => {
     if (counter >= 50) return;
     counter++;
   };
   const subtractCounter = () => {
-    if (counter > 0) counter--;
+    if (counter > 1) counter--;
   };
 </script>
 
