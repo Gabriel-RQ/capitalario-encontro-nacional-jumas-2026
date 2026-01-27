@@ -1,11 +1,14 @@
 <script lang="ts">
   import { Button } from "$lib/components";
   import type { MouseEventHandler } from "svelte/elements";
-  import { fade, fly, scale, slide } from "svelte/transition";
+  import { fly } from "svelte/transition";
 
   let counter = $state(0);
 
-  const addCounter = () => counter++;
+  const addCounter = () => {
+    if (counter >= 50) return;
+    counter++;
+  };
   const subtractCounter = () => {
     if (counter > 0) counter--;
   };
