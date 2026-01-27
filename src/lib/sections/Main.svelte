@@ -10,7 +10,7 @@
   } from "$lib/components";
 </script>
 
-<main class="flex flex-col justify-center items-center gap-4">
+<main class="flex flex-col items-center gap-4 lg:mx-">
   <section
     id="counter"
     class="flex flex-col lg:flex-row justify-center lg:justify-evenly items-center gap-4"
@@ -32,9 +32,7 @@
     </div>
   </section>
 
-  <section
-    class="w-full lg:w-4/5 flex flex-col justify-center items-center gap-9"
-  >
+  <section class="grid grid-rows-[auto_1fr] w-full lg:w-4/5 gap-5">
     <div class="w-full">
       <h2
         class="relative w-fit text-secondary font-bold text-3xl lg:text-5xl text-left before:w-7/10 before:h-0.5 before:bg-variation-light-blue before:absolute before:-bottom-1"
