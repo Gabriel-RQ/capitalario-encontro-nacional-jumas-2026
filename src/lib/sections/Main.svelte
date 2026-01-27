@@ -32,7 +32,7 @@
     </div>
   </section>
 
-  <section class="grid grid-rows-[auto_1fr] w-full lg:w-4/5 gap-5">
+  <section class="grid grid-rows-[auto_1fr] w-full lg:w-4/5 gap-5 lg:gap-12">
     <div class="w-full">
       <h2
         class="relative w-fit text-secondary font-bold text-3xl lg:text-5xl text-left before:w-7/10 before:h-0.5 before:bg-variation-light-blue before:absolute before:-bottom-1"
