@@ -22,7 +22,11 @@
   onclick: MouseEventHandler<HTMLButtonElement>;
 })}
   <Button {onclick}>
-    <span class="size-4 lg:size-6 inline-block font-bold"> {text} </span>
+    <span
+      class="size-4 lg:size-12 lg:text-2xl flex items-center justify-center font-bold"
+    >
+      {text}
+    </span>
   </Button>
 {/snippet}
 
@@ -30,7 +34,7 @@
   {@render CounterButton({ text: "-", onclick: subtractCounter })}
 
   <Button>
-    <span class="text-md lg:text-xl">
+    <span class="text-md lg:text-2xl">
       Registrar
       {#key counter}
         <strong class="inline-block" in:fly={{ duration: 500, y: -15 }}

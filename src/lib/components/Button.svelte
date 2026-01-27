@@ -11,7 +11,7 @@
 
 <button {...restProps} class="relative outline-none group">
   <div
-    class="size-max bg-variation-red rounded-full border-2 border-variation-red-border px-4 py-3 z-0 text-background group-active:translate-y-1.5 transition-transform duration-250 select-none cursor-pointer in-focus-visible:outline-2"
+    class="size-full bg-variation-red rounded-full border-2 border-variation-red-border px-4 py-3 z-0 text-background group-active:translate-y-1.5 transition-transform duration-250 select-none cursor-pointer in-focus-visible:outline-2 flex items-center justify-center"
   >
     {@render children()}
   </div>
