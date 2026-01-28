@@ -23,13 +23,12 @@
   font-optical-sizing: auto;
   font-weight: normal;
   font-style: normal;
-  width: 100dvw;
 }
 
 body {
   @apply size-full py-5 px-4;
 
   @variant lg {
-    @apply py-15 px-14;
+    @apply py-15 px-16;
   }
 }
