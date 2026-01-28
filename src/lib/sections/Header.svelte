@@ -7,5 +7,7 @@
     src={logo}
     alt="Encontro nacional em Jaraguá"
     class="scale-75 md:scale-100"
+    height="103"
+    width="401"
   />
 </header>
