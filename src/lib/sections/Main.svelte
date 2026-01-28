@@ -10,12 +10,12 @@
   } from "$lib/components";
 </script>
 
-<main class="flex flex-col items-center gap-4 lg:mx-">
+<main class="flex flex-col items-center gap-4 lg:mx-auto max-w-7xl">
   <section
     id="counter"
-    class="flex flex-col lg:flex-row justify-center lg:justify-evenly items-center gap-4"
+    class="flex flex-col lg:flex-row justify-center items-center gap-4"
   >
-    <div class="flex flex-col items-center gap-6 lg:gap-9 py-4 lg:py-8">
+    <div class="flex grow-2 flex-col items-center gap-6 lg:gap-9 py-4 lg:py-8">
       <ProgressIndicator objective={70_000_000} current={30_000_000} />
       <Counter maxLength={8} current={100} />
       <PrayerCounterButtons />

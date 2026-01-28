@@ -18,7 +18,7 @@
 
 <div
   id="container"
-  class="relative rounded-full bg-secondary px-6 py-3 lg:px-9 lg:py-6 flex flex-col border-variation-dark-blue border-4 text-background space-y-2 lg:space-y-6"
+  class="relative rounded-full bg-secondary px-6 py-3 lg:px-9 lg:py-6 flex flex-col border-variation-dark-blue border-4 text-background space-y-2 lg:space-y-6 w-full max-w-209"
 >
   <p class="font-bold text-lg lg:text-3xl leading-5">
     Contribua com o capital de graças
