@@ -37,7 +37,7 @@
 </script>
 
 <div
-  class="text-primary font-light text-sm lg:text-xl text-center gap-y-3 inline-flex flex-col"
+  class="text-primary font-light text-sm lg:text-xl text-center gap-y-3 inline-flex flex-col select-none"
 >
   <span class="font-extrabold text-5xl lg:text-9xl">
     {@html value}
