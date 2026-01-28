@@ -22,6 +22,7 @@
       src={favicon}
       alt="Logo do Encontro Nacional 2026 - Uma chama com o santuário ao centro, escrito 70 anos do Jumas Brasil abaixo"
       class="drop-shadow-lg size-2/3"
+      fetchpriority="high"
       in:blur={{ duration: 500 }}
     />
   {/if}
