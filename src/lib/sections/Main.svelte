@@ -35,7 +35,13 @@
         (Pe. José Kentenich).
       </Comment>
 
-      <InfoList items={["Teste", "Teste", "Teste"]} />
+      <InfoList
+        items={[
+          "Faça sua entrega e reze a Oração da Confiança",
+          "Registre sua contribuição com o Capital de Graças",
+          "Mantenha a chama acesa para o Nacional 2026",
+        ]}
+      />
     </div>
   </section>
 
@@ -49,9 +55,34 @@
     </div>
 
     <CardList>
-      <Card>Lorem ipsum sit dolor amet</Card>
-      <Card>Lorem ipsum sit dolor amet</Card>
-      <Card>Lorem ipsum sit dolor amet</Card>
+      <Card>
+        O Propósito da carta é o símbolo da sua entrega total. Nela, você
+        materializa o seu Capital de Graças, depositando sua vida e esforços
+        diretamente nos braços da Mãe de Deus.
+      </Card>
+      <Card>
+        Sobre o que escrever: <strong
+          >"Como a Mãe de Deus e o Jumas moldam sua história".</strong
+        > Reflita sobre sua caminhada, suas conquistas no movimento e como esse vínculo
+        transformou quem você é hoje.
+      </Card>
+      <Card>
+        <span>
+          <strong>Dados |</strong>
+          Coloque Nome, Idade e Cidade.
+        </span>
+        <br /><br />
+        <span>
+          <strong>Formato |</strong>
+          Escreva preferencialmente à mão.
+        </span>
+        <br /><br />
+        <span>
+          <strong> Entrega | </strong>
+          Leve a carta física com você para o Encontro Nacional.preferencialmente
+          à mão. Entrega | Leve a carta física com você para o Encontro Nacional.
+        </span>
+      </Card>
     </CardList>
   </section>
 </main>

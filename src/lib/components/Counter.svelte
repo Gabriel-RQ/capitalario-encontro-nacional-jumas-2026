@@ -25,7 +25,8 @@
 
     return parts
       .map((part, i) => {
-        if (i === 0) return `<span class="text-variation-red/65">${part}`;
+        if (i === 0 && current.toString().length < 8)
+          return `<span class="text-variation-red/65">${part}`;
         if (Number.parseInt(part) > 0 && !closed) {
           closed = true;
           return `</span>${part}`;
