@@ -3,8 +3,10 @@
     <a href="https://jumasbrasil.com.br/" target="_blank" rel="noreferrer"
       >Jumas Brasil</a
     >
-    <a href="https://jumasbrasil.com.br/" target="_blank" rel="noreferrer"
-      >Inscrições para o Encontro Nacional</a
+    <a
+      href="https://docs.google.com/forms/d/e/1FAIpQLSc_psjNFn5TrPKQn3LAgDK9jMhN5tk2s4IRduN5-QDqg0F7Kw/viewform"
+      target="_blank"
+      rel="noreferrer">Inscrições para o Encontro Nacional</a
     >
   </div>
 

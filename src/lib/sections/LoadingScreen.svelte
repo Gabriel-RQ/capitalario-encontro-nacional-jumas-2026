@@ -2,7 +2,7 @@
   import favicon from "$lib/assets/favicon.svg";
   import { ColorBand } from "$lib/components";
   import { onMount } from "svelte";
-  import { scale, blur } from "svelte/transition";
+  import { blur } from "svelte/transition";
 
   let mounted = $state(false);
 

@@ -14,8 +14,6 @@
   const subtractCounter = () => {
     if (counter > 1) counter--;
   };
-
-  $inspect(isSubmitting);
 </script>
 
 {#snippet CounterButton({
@@ -37,6 +35,7 @@
 <form
   action="?/counter"
   method="POST"
+  class="self-center"
   use:enhance={() => {
     return async ({ update }) => {
       isSubmitting = true;
