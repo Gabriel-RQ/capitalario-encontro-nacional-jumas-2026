@@ -8,6 +8,13 @@
     PrayerCounterButtons,
     ProgressIndicator,
   } from "$lib/components";
+
+  type MainProps = {
+    currentCounter: number;
+    maxCounter: number;
+  };
+
+  let { currentCounter, maxCounter }: MainProps = $props();
 </script>
 
 <main class="flex flex-col items-center gap-4 lg:mx-auto max-w-7xl">
@@ -16,8 +23,8 @@
     class="flex flex-col lg:flex-row justify-center items-center gap-4"
   >
     <div class="flex grow-2 flex-col items-center gap-6 lg:gap-9 py-4 lg:py-8">
-      <ProgressIndicator objective={70_000_000} current={30_000_000} />
-      <Counter maxLength={8} current={100} />
+      <ProgressIndicator objective={maxCounter} current={currentCounter} />
+      <Counter maxLength={8} current={currentCounter} />
       <PrayerCounterButtons />
     </div>
 
