@@ -15,10 +15,10 @@
   <a href="https://www.figma.com/design/Ni8tlwXhKfQiBBO6guTXGh/Capital%C3%A1rio---Encontro-Nacional-2026?node-id=8-231&t=sFat4ybT2MSqLsI1-1">
     <img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Design" />
   </a>
-  <a href="https://github.com/Gabriel-RQ/capitalario-encontro-nacional-jumas-2026">
+  <a href="https://kit.svelte.dev/">
     <img src="https://img.shields.io/badge/SvelteKit-Framework-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit" />
   </a>
-  <a href="https://github.com/Gabriel-RQ/capitalario-encontro-nacional-jumas-2026">
+  <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-Language-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
 </p>
