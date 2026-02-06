@@ -29,9 +29,9 @@
 
 ## 📋 Índice
 
-- [🎨 Design](#-design)
-- [🚀 Como Executar Localmente](#-como-executar-localmente)
-- [👥 Desenvolvedores](#-desenvolvedores)
+- [🎨 Design](#design)
+- [🚀 Como Executar Localmente](#como-executar-localmente)
+- [👥 Desenvolvedores](#desenvolvedores)
 
 ---
 
@@ -76,13 +76,13 @@ O projeto estará disponível em `http://localhost:5173` 🎉
   <tr>
     <td align="center">
       <a href="https://github.com/Gabriel-RQ">
-        <img src="https://github.com/Gabriel-RQ.png" width="100px;" alt="Gabriel R. de Queiroz"/><br />
+        <img src="https://github.com/Gabriel-RQ.png" width="100" alt="Gabriel R. de Queiroz"/><br />
         <sub><b>Gabriel R. de Queiroz</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/dedeferreira">
-        <img src="https://github.com/dedeferreira.png" width="100px;" alt="André Ferreira"/><br />
+        <img src="https://github.com/dedeferreira.png" width="100" alt="André Ferreira"/><br />
         <sub><b>André Ferreira</b></sub>
       </a>
     </td>
