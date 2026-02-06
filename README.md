@@ -29,9 +29,9 @@
 
 ## 📋 Índice
 
-- [🎨 Design](#design)
-- [🚀 Como Executar Localmente](#como-executar-localmente)
-- [👥 Desenvolvedores](#desenvolvedores)
+- [🎨 Design](#-design)
+- [🚀 Como Executar Localmente](#-como-executar-localmente)
+- [👥 Desenvolvedores](#-desenvolvedores)
 
 ---
 
