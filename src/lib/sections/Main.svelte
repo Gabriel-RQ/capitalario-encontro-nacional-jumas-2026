@@ -79,8 +79,7 @@
         <br /><br />
         <span>
           <strong> Entrega | </strong>
-          Leve a carta física com você para o Encontro Nacional.preferencialmente
-          à mão. Entrega | Leve a carta física com você para o Encontro Nacional.
+          Leve a carta física com você para o Encontro Nacional.
         </span>
       </Card>
     </CardList>

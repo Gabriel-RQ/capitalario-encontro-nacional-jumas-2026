@@ -9,7 +9,7 @@
 
 Website para registro dos capitais de graça para o encontro nacional do Jumas Brasil em 2026.
 
-Acesse o [Design no figma](https://www.figma.com/design/Ni8tlwXhKfQiBBO6guTXGh/Capital%C3%A1rio---Encontro-Nacional-2026?node-id=8-231&t=sFat4ybT2MSqLsI1-1) para visualizar a interface do projeto.
+Acesse o [design no figma](https://www.figma.com/design/Ni8tlwXhKfQiBBO6guTXGh/Capital%C3%A1rio---Encontro-Nacional-2026?node-id=8-231&t=sFat4ybT2MSqLsI1-1) para visualizar a interface do projeto.
 
 ## Como executar localmente
 
