@@ -24,7 +24,10 @@
   >
     <div class="flex grow-2 flex-col items-left gap-6 lg:gap-9 py-4 lg:py-8">
       <ProgressIndicator objective={maxCounter} current={currentCounter} />
-      <Counter maxLength={8} current={currentCounter} />
+      <Counter
+        maxLength={maxCounter.toString().length}
+        current={currentCounter}
+      />
       <PrayerCounterButtons />
     </div>
 
