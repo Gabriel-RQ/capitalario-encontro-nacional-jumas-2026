@@ -11,6 +11,6 @@
   </div>
 
   <p class="text-balance">
-    Copyright &copy; 2025. Todos os direitos reservados para Jumas Brasil.
+    Copyright &copy; 2026. Todos os direitos reservados para Jumas Brasil.
   </p>
 </footer>
